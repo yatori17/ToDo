@@ -1,0 +1,3 @@
+uma pratica ruim acoplar componentes
+
+estado q se chama de store- > voce tem um componente que dispara uma ação, uma vez q essa ação evolui o estado..
